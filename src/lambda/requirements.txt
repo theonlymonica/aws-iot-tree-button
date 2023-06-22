@@ -1,0 +1,4 @@
+qrcode
+requests
+boto3
+botocore

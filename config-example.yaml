@@ -1,0 +1,7 @@
+# edit and rename as config.yaml
+project_list: ["1", "2", "3", "4", "5"]
+url: "https://tree-nation.com/api/plant"
+gadgeter_id: "abcdef123"
+token: "XxXxXxXxXxXxXxXxXxXxXxXxXxXxXx"
+certificateInfo: '/C=IT/ST=MYCOMPANY/L=MyCity/O=MyOrg/CN=greengadget.example.com'
+mqtt_topic: "esp8266/pub" #same as in the button code
